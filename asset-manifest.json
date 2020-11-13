@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/signon/static/css/main.1a7b5f59.chunk.css",
+    "main.js": "/signon/static/js/main.78c7e825.chunk.js",
+    "main.js.map": "/signon/static/js/main.78c7e825.chunk.js.map",
+    "runtime-main.js": "/signon/static/js/runtime-main.53955677.js",
+    "runtime-main.js.map": "/signon/static/js/runtime-main.53955677.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/signon/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e0f91775.chunk.js": "/signon/static/js/2.e0f91775.chunk.js",
+    "static/js/2.e0f91775.chunk.js.map": "/signon/static/js/2.e0f91775.chunk.js.map",
+    "static/js/3.682df7ee.chunk.js": "/signon/static/js/3.682df7ee.chunk.js",
+    "static/js/3.682df7ee.chunk.js.map": "/signon/static/js/3.682df7ee.chunk.js.map",
+    "index.html": "/signon/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/signon/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.1a7b5f59.chunk.css.map": "/signon/static/css/main.1a7b5f59.chunk.css.map",
+    "static/js/2.e0f91775.chunk.js.LICENSE.txt": "/signon/static/js/2.e0f91775.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53955677.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e0f91775.chunk.js",
+    "static/css/main.1a7b5f59.chunk.css",
+    "static/js/main.78c7e825.chunk.js"
+  ]
+}
